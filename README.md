@@ -15,9 +15,9 @@ Each section outlines the components involved, their roles, and the benefits and
 
 ## Presentations
 
-- [English Presentation](path/to/English-presentation.pdf)
-- [French Presentation](path/to/French-presentation.pdf)
-- [Arabic Presentation](path/to/Arabic-presentation.pdf)
+- [English Presentation](https://github.com/KARAM022/Web-infrastructure-design/tree/main/ENG)
+- [French Presentation](https://github.com/KARAM022/Web-infrastructure-design/tree/main/FR)
+- [Arabic Presentation](https://github.com/KARAM022/Web-infrastructure-design/tree/main/AR)
 
 ## Objectives
 
